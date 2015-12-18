@@ -8,3 +8,8 @@ Tuesday is learning how to write code. This is where we are keeping track of her
 ----
 
 We made a function! It accepts a string and says hello!
+
+0.0.2
+----
+
+We used our makeNamer function to say hello to the whole family!

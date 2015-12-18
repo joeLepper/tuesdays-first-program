@@ -2,4 +2,12 @@ function makeNamer (name) {
   console.log('Hello, ' + name + '!')
 }
 
-makeNamer('Tuesday')
+var familyList = [
+  'Magnolia',
+  'Cali',
+  'Tuesday',
+  'Joe',
+  'Heidi'
+]
+
+familyList.forEach(makeNamer)
