@@ -3,11 +3,16 @@ function makeNamer (name) {
 }
 
 var familyList = [
-  'Magnolia',
-  'Cali',
-  'Tuesday',
-  'Joe',
-  'Heidi'
+  'Magnolia', // 0
+  'Cali',     // 1
+  'Tuesday',  // 2
+  'Joe',      // 3
+  'Heidi'     // 4
 ]
 
-familyList.forEach(makeNamer)
+var pzth = 0 // pzth is best-guess spelling for position
+
+setInterval(function () {
+  makeNamer(familyList[pzth % familyList.length])
+  pzth++
+}, 10 * 1000) // delay for ten seconds
