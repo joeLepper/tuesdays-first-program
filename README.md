@@ -8,6 +8,8 @@ Tuesday is learning how to write code. This is where we are keeping track of her
 
 This README is written (for now) by her dad. Everything in the program is typed by Tueser (except for comments, which I am sometimes adding for posterity and sometimes because we use them during instruction.
 
+
+
 0.0.1
 ----
 
@@ -22,3 +24,8 @@ We used our makeNamer function to say hello to the whole family!
 ----
 
 That escalated quickly. As soon as we got finished with a loop Tues wanted to make it repeat over and over again AND for there to be a delay between each time it said hello. Welcome to asynchrnous programming, love.
+
+0.0.4
+----
+
+We decided to draw a picture of our family holding hands every time that we update. I imagine that soon we'll want to draw better pictures, and we'll move this into the browser.

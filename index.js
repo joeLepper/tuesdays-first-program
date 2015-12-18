@@ -1,4 +1,8 @@
 function makeNamer (name) {
+  console.log('\n o  o  o  o  o')    // this is our
+  console.log(' +@-+@-+@-+@-+')      // picture of a
+  console.log(' |  |  |  |  |')      // family holding
+  console.log(' ^  ^  ^  ^  ^\n')    // hands
   console.log('Hello, ' + name + '!')
 }
 
