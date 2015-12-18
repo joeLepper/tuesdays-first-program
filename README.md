@@ -29,3 +29,8 @@ That escalated quickly. As soon as we got finished with a loop Tues wanted to ma
 ----
 
 We decided to draw a picture of our family holding hands every time that we update. I imagine that soon we'll want to draw better pictures, and we'll move this into the browser.
+
+0.0.5
+----
+
+We want to be able to say more than just hello. We want to identify each member of our family's position or type. Also, ten seconds is too long. Tueser got distracted halfway through updating the list because typing is hard when you're little.
