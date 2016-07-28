@@ -1,0 +1,23 @@
+{
+  "name": "tuesday",
+  "version": "1.0.0",
+  "description": "Tueser's first program",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeLepper/tuesdays-first-program.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeLepper/tuesdays-first-program/issues"
+  },
+  "homepage": "https://github.com/joeLepper/tuesdays-first-program#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.10.0"
+  }
+}

@@ -34,3 +34,13 @@ We decided to draw a picture of our family holding hands every time that we upda
 ----
 
 We want to be able to say more than just hello. We want to identify each member of our family's position or type. Also, ten seconds is too long. Tueser got distracted halfway through updating the list because typing is hard when you're little.
+
+0.0.6
+----
+
+We finished working through the names and types of our whole family.
+
+0.0.7
+----
+
+Let's move this to a website.
