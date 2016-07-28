@@ -10,8 +10,8 @@ var familyList = [
   { name: 'Magnolia', type: 'baby human' }, // 0
   { name: 'Cali', type: 'kid human' },     // 1
   { name: 'Tuesday', type: 'kid human' },   // 2
-  // 'Joe',      // 3
-  // 'Heidi'     // 4
+  { name: 'Joe' , type: 'grown up human'},      // 3
+  { name: 'Heidi',type: 'grown up human' }      // 4
 ]
 
 var pzth = 0 // pzth is best-guess spelling for position
